@@ -1,10 +1,10 @@
 #Gitignore file version 1.0.0
 
 #Ignore data logs
-*.csv
+.csv
 
 #Ignore images
-images/*
+images/
 
 #Ignore packages, specficially executatble jar files
-*.jar
+.jar
